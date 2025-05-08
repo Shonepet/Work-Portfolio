@@ -1,4 +1,5 @@
 **Problem Statement**
+
 create a complete set of financial statements, demonstrating your ability to interpret and apply accounting data effectively. 
 Tasks and Step-by-Step Guide: 
 Income Statement Preparation: 
@@ -50,7 +51,9 @@ Statement of Cash Flows: Utilize the indirect method by starting with net income
 By following these steps, students will not only learn how to manage and analyze financial data but also gain proficiency in using Excel for financial reporting. This exercise can be enhanced by including hypothetical scenarios where students must adjust entries for errors or assess the impact of different financial decisions.
 
 **Tools Used**
+
 Excel 
 
 **Data Source**
+
 Bperson Accounting Agency download from Nexford University
