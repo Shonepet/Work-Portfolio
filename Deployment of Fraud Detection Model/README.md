@@ -38,18 +38,18 @@ Data was sourced from kaggle.com
 
 **Tools Used**
 
-Microsoft Powerpoint (office 365)
-Python 3
-Jupyter Notebook
-Visual Studio 1.1
-flask 3.0.3 
-joblib 1.4.2
-numpy 2.0.2
-pandas 2.2.3
-matplotlib 3.9.2
-seaborn 0.13.0
-scikit-learn 1.6.1
-xgboost 2.1.4
-imbalanced-learn 0.13.0
+Microsoft Powerpoint (office 365),
+Python 3,
+Jupyter Notebook,
+Visual Studio 1.1,
+flask 3.0.3 ,
+joblib 1.4.2,
+numpy 2.0.2,
+pandas 2.2.3,
+matplotlib 3.9.2,
+seaborn 0.13.0,
+scikit-learn 1.6.1,
+xgboost 2.1.4,
+imbalanced-learn 0.13.0 and
 gunicorn 23.0.0
 
