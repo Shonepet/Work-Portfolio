@@ -31,7 +31,7 @@ https://final-project-fraud-detection-application.onrender.com/
 •	Demonstrates the ability to present opinions and model results from findings in a well-structured and convincing way. 
 •	Demonstrates the ability to plan, execute, deploy, and monitor a business analytics project with at least some element of originality. 
 
-Data Source
+**Data Source**
 
 The original case study was on PayPal.com. Due to unavailability of real dataset online as a result of privacy concerns and other ethical considerations, Paysim Synthentic Dataset was used for this project as it mimics PayPal mobile transactions
 Data was sourced from kaggle.com
