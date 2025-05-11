@@ -13,10 +13,12 @@ Create a new Jupyter Notebook for the model development task.
 • Evaluate the model's performance using relevant metrics.
 • Organize and document your Jupyter Notebook neatly.
 
-Deployment Phase
+**Deployment Phase**
+
 •	Deploy the ready model on a live platform.
 
-Presentation Phase
+**Presentation Phase**
+
 •	Develop a presentation with presenter notes. Combine information from the EDA & Modelling. 
 •	Presents a clear, logical, and coherent line of argument. 
 •	Demonstrates the ability to synthesize ideas and business analytics project findings. 
@@ -33,19 +35,20 @@ Data Source
 The original case study was on PayPal.com. Due to unavailability of real dataset online as a result of privacy concerns and other ethical considerations, Paysim Synthentic Dataset was used for this project as it mimics PayPal mobile transactions
 Data was sourced from kaggle.com
 
-Tools Used
+**Tools Used**
 
+Microsoft Powerpoint (office 365)
 Python 3
 Jupyter Notebook
 Visual Studio 1.1
-flask
-joblib
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-xgboost
-imbalanced-learn
-gunicorn
+flask 3.0.3 
+joblib 1.4.2
+numpy 2.0.2
+pandas 2.2.3
+matplotlib 3.9.2
+seaborn 0.13.0
+scikit-learn 1.6.1
+xgboost 2.1.4
+imbalanced-learn 0.13.0
+gunicorn 23.0.0
 
