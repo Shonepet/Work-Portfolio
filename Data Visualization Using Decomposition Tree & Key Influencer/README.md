@@ -12,5 +12,5 @@ UK Bank Customer Profile Dataset was download from Nexford University database
 
 **Tools Used**
 
-Microsoft Power BI
+Microsoft Power BI and
 Microsoft Word
